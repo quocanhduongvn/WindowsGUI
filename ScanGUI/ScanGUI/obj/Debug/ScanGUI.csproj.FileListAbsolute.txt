@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\bin\Debug\ScanGUI.exe.config
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\bin\Debug\ScanGUI.exe
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\bin\Debug\ScanGUI.pdb
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.Form1.resources
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.Properties.Resources.resources
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.exe
+C:\Users\Admin\source\repos\quocanhduongvn\WindowsGUI\ScanGUI\ScanGUI\obj\Debug\ScanGUI.pdb
